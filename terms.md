@@ -153,4 +153,4 @@ Google Play 는 이용자 제작 콘텐츠(UGC)를 다루는 앱에 신고·차�
 
 ## 10. 문의
 
-seiltnn0907@gmail.com
+neheews@gmail.com
